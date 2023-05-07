@@ -156,7 +156,8 @@ plt.show()
 
 
 i) Using Averaging Filter
-![Uploading 230782922-7bbef89e-7775-4c2a-83da-6ac0971ae167.png…]()
+
+![230782922-7bbef89e-7775-4c2a-83da-6ac0971ae167](https://user-images.githubusercontent.com/120204455/236689946-34602816-3de3-4f54-8c8a-fa9231d2976a.png)
 
 
 
